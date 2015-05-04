@@ -1,0 +1,2629 @@
+fileFormatVersion: 2
+guid: 25055e0d35c087f4e8e3d681a3ef7240
+timeCreated: 1429880063
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: NES - Super Mario Bros - Mario Luigi_0
+    21300002: NES - Super Mario Bros - Mario Luigi_1
+    21300004: NES - Super Mario Bros - Mario Luigi_2
+    21300006: NES - Super Mario Bros - Mario Luigi_3
+    21300008: NES - Super Mario Bros - Mario Luigi_4
+    21300010: NES - Super Mario Bros - Mario Luigi_5
+    21300012: NES - Super Mario Bros - Mario Luigi_6
+    21300014: NES - Super Mario Bros - Mario Luigi_7
+    21300016: NES - Super Mario Bros - Mario Luigi_8
+    21300018: NES - Super Mario Bros - Mario Luigi_9
+    21300020: NES - Super Mario Bros - Mario Luigi_10
+    21300022: NES - Super Mario Bros - Mario Luigi_11
+    21300024: NES - Super Mario Bros - Mario Luigi_12
+    21300026: NES - Super Mario Bros - Mario Luigi_13
+    21300028: NES - Super Mario Bros - Mario Luigi_14
+    21300030: NES - Super Mario Bros - Mario Luigi_15
+    21300032: NES - Super Mario Bros - Mario Luigi_16
+    21300034: NES - Super Mario Bros - Mario Luigi_17
+    21300036: NES - Super Mario Bros - Mario Luigi_18
+    21300038: NES - Super Mario Bros - Mario Luigi_19
+    21300040: NES - Super Mario Bros - Mario Luigi_20
+    21300042: NES - Super Mario Bros - Mario Luigi_21
+    21300044: NES - Super Mario Bros - Mario Luigi_22
+    21300046: NES - Super Mario Bros - Mario Luigi_23
+    21300048: NES - Super Mario Bros - Mario Luigi_24
+    21300050: NES - Super Mario Bros - Mario Luigi_25
+    21300052: NES - Super Mario Bros - Mario Luigi_26
+    21300054: NES - Super Mario Bros - Mario Luigi_27
+    21300056: NES - Super Mario Bros - Mario Luigi_28
+    21300058: NES - Super Mario Bros - Mario Luigi_29
+    21300060: NES - Super Mario Bros - Mario Luigi_30
+    21300062: NES - Super Mario Bros - Mario Luigi_31
+    21300064: NES - Super Mario Bros - Mario Luigi_32
+    21300066: NES - Super Mario Bros - Mario Luigi_33
+    21300068: NES - Super Mario Bros - Mario Luigi_34
+    21300070: NES - Super Mario Bros - Mario Luigi_35
+    21300072: NES - Super Mario Bros - Mario Luigi_36
+    21300074: NES - Super Mario Bros - Mario Luigi_37
+    21300076: NES - Super Mario Bros - Mario Luigi_38
+    21300078: NES - Super Mario Bros - Mario Luigi_39
+    21300080: NES - Super Mario Bros - Mario Luigi_40
+    21300082: NES - Super Mario Bros - Mario Luigi_41
+    21300084: NES - Super Mario Bros - Mario Luigi_42
+    21300086: NES - Super Mario Bros - Mario Luigi_43
+    21300088: NES - Super Mario Bros - Mario Luigi_44
+    21300090: NES - Super Mario Bros - Mario Luigi_45
+    21300092: NES - Super Mario Bros - Mario Luigi_46
+    21300094: NES - Super Mario Bros - Mario Luigi_47
+    21300096: NES - Super Mario Bros - Mario Luigi_48
+    21300098: NES - Super Mario Bros - Mario Luigi_49
+    21300100: NES - Super Mario Bros - Mario Luigi_50
+    21300102: NES - Super Mario Bros - Mario Luigi_51
+    21300104: NES - Super Mario Bros - Mario Luigi_52
+    21300106: NES - Super Mario Bros - Mario Luigi_53
+    21300108: NES - Super Mario Bros - Mario Luigi_54
+    21300110: NES - Super Mario Bros - Mario Luigi_55
+    21300112: NES - Super Mario Bros - Mario Luigi_56
+    21300114: NES - Super Mario Bros - Mario Luigi_57
+    21300116: NES - Super Mario Bros - Mario Luigi_58
+    21300118: NES - Super Mario Bros - Mario Luigi_59
+    21300120: NES - Super Mario Bros - Mario Luigi_60
+    21300122: NES - Super Mario Bros - Mario Luigi_61
+    21300124: NES - Super Mario Bros - Mario Luigi_62
+    21300126: NES - Super Mario Bros - Mario Luigi_63
+    21300128: NES - Super Mario Bros - Mario Luigi_64
+    21300130: NES - Super Mario Bros - Mario Luigi_65
+    21300132: NES - Super Mario Bros - Mario Luigi_66
+    21300134: NES - Super Mario Bros - Mario Luigi_67
+    21300136: NES - Super Mario Bros - Mario Luigi_68
+    21300138: NES - Super Mario Bros - Mario Luigi_69
+    21300140: NES - Super Mario Bros - Mario Luigi_70
+    21300142: NES - Super Mario Bros - Mario Luigi_71
+    21300144: NES - Super Mario Bros - Mario Luigi_72
+    21300146: NES - Super Mario Bros - Mario Luigi_73
+    21300148: NES - Super Mario Bros - Mario Luigi_74
+    21300150: NES - Super Mario Bros - Mario Luigi_75
+    21300152: NES - Super Mario Bros - Mario Luigi_76
+    21300154: NES - Super Mario Bros - Mario Luigi_77
+    21300156: NES - Super Mario Bros - Mario Luigi_78
+    21300158: NES - Super Mario Bros - Mario Luigi_79
+    21300160: NES - Super Mario Bros - Mario Luigi_80
+    21300162: NES - Super Mario Bros - Mario Luigi_81
+    21300164: NES - Super Mario Bros - Mario Luigi_82
+    21300166: NES - Super Mario Bros - Mario Luigi_83
+    21300168: NES - Super Mario Bros - Mario Luigi_84
+    21300170: NES - Super Mario Bros - Mario Luigi_85
+    21300172: NES - Super Mario Bros - Mario Luigi_86
+    21300174: NES - Super Mario Bros - Mario Luigi_87
+    21300176: NES - Super Mario Bros - Mario Luigi_88
+    21300178: NES - Super Mario Bros - Mario Luigi_89
+    21300180: NES - Super Mario Bros - Mario Luigi_90
+    21300182: NES - Super Mario Bros - Mario Luigi_91
+    21300184: NES - Super Mario Bros - Mario Luigi_92
+    21300186: NES - Super Mario Bros - Mario Luigi_93
+    21300188: NES - Super Mario Bros - Mario Luigi_94
+    21300190: NES - Super Mario Bros - Mario Luigi_95
+    21300192: NES - Super Mario Bros - Mario Luigi_96
+    21300194: NES - Super Mario Bros - Mario Luigi_97
+    21300196: NES - Super Mario Bros - Mario Luigi_98
+    21300198: NES - Super Mario Bros - Mario Luigi_99
+    21300200: NES - Super Mario Bros - Mario Luigi_100
+    21300202: NES - Super Mario Bros - Mario Luigi_101
+    21300204: NES - Super Mario Bros - Mario Luigi_102
+    21300206: NES - Super Mario Bros - Mario Luigi_103
+    21300208: NES - Super Mario Bros - Mario Luigi_104
+    21300210: NES - Super Mario Bros - Mario Luigi_105
+    21300212: NES - Super Mario Bros - Mario Luigi_106
+    21300214: NES - Super Mario Bros - Mario Luigi_107
+    21300216: NES - Super Mario Bros - Mario Luigi_108
+    21300218: NES - Super Mario Bros - Mario Luigi_109
+    21300220: NES - Super Mario Bros - Mario Luigi_110
+    21300222: NES - Super Mario Bros - Mario Luigi_111
+    21300224: NES - Super Mario Bros - Mario Luigi_112
+    21300226: NES - Super Mario Bros - Mario Luigi_113
+    21300228: NES - Super Mario Bros - Mario Luigi_114
+    21300230: NES - Super Mario Bros - Mario Luigi_115
+    21300232: NES - Super Mario Bros - Mario Luigi_116
+    21300234: NES - Super Mario Bros - Mario Luigi_117
+    21300236: NES - Super Mario Bros - Mario Luigi_118
+    21300238: NES - Super Mario Bros - Mario Luigi_119
+    21300240: NES - Super Mario Bros - Mario Luigi_120
+    21300242: NES - Super Mario Bros - Mario Luigi_121
+    21300244: NES - Super Mario Bros - Mario Luigi_122
+    21300246: NES - Super Mario Bros - Mario Luigi_123
+    21300248: NES - Super Mario Bros - Mario Luigi_124
+    21300250: NES - Super Mario Bros - Mario Luigi_125
+    21300252: NES - Super Mario Bros - Mario Luigi_126
+    21300254: NES - Super Mario Bros - Mario Luigi_127
+    21300256: NES - Super Mario Bros - Mario Luigi_128
+    21300258: NES - Super Mario Bros - Mario Luigi_129
+    21300260: NES - Super Mario Bros - Mario Luigi_130
+    21300262: NES - Super Mario Bros - Mario Luigi_131
+    21300264: NES - Super Mario Bros - Mario Luigi_132
+    21300266: NES - Super Mario Bros - Mario Luigi_133
+    21300268: NES - Super Mario Bros - Mario Luigi_134
+    21300270: NES - Super Mario Bros - Mario Luigi_135
+    21300272: NES - Super Mario Bros - Mario Luigi_136
+    21300274: NES - Super Mario Bros - Mario Luigi_137
+    21300276: NES - Super Mario Bros - Mario Luigi_138
+    21300278: NES - Super Mario Bros - Mario Luigi_139
+    21300280: NES - Super Mario Bros - Mario Luigi_140
+    21300282: NES - Super Mario Bros - Mario Luigi_141
+    21300284: NES - Super Mario Bros - Mario Luigi_142
+    21300286: NES - Super Mario Bros - Mario Luigi_143
+    21300288: NES - Super Mario Bros - Mario Luigi_144
+    21300290: NES - Super Mario Bros - Mario Luigi_145
+    21300292: NES - Super Mario Bros - Mario Luigi_146
+    21300294: NES - Super Mario Bros - Mario Luigi_147
+    21300296: NES - Super Mario Bros - Mario Luigi_148
+    21300298: NES - Super Mario Bros - Mario Luigi_149
+    21300300: NES - Super Mario Bros - Mario Luigi_150
+    21300302: NES - Super Mario Bros - Mario Luigi_151
+    21300304: NES - Super Mario Bros - Mario Luigi_152
+    21300306: NES - Super Mario Bros - Mario Luigi_153
+    21300308: NES - Super Mario Bros - Mario Luigi_154
+    21300310: NES - Super Mario Bros - Mario Luigi_155
+    21300312: NES - Super Mario Bros - Mario Luigi_156
+    21300314: NES - Super Mario Bros - Mario Luigi_157
+    21300316: NES - Super Mario Bros - Mario Luigi_158
+    21300318: NES - Super Mario Bros - Mario Luigi_159
+    21300320: NES - Super Mario Bros - Mario Luigi_160
+    21300322: NES - Super Mario Bros - Mario Luigi_161
+    21300324: NES - Super Mario Bros - Mario Luigi_162
+    21300326: NES - Super Mario Bros - Mario Luigi_163
+    21300328: NES - Super Mario Bros - Mario Luigi_164
+    21300330: NES - Super Mario Bros - Mario Luigi_165
+    21300332: NES - Super Mario Bros - Mario Luigi_166
+    21300334: NES - Super Mario Bros - Mario Luigi_167
+    21300336: NES - Super Mario Bros - Mario Luigi_168
+    21300338: NES - Super Mario Bros - Mario Luigi_169
+    21300340: NES - Super Mario Bros - Mario Luigi_170
+    21300342: NES - Super Mario Bros - Mario Luigi_171
+    21300344: NES - Super Mario Bros - Mario Luigi_172
+    21300346: NES - Super Mario Bros - Mario Luigi_173
+    21300348: NES - Super Mario Bros - Mario Luigi_174
+    21300350: NES - Super Mario Bros - Mario Luigi_175
+    21300352: NES - Super Mario Bros - Mario Luigi_176
+    21300354: NES - Super Mario Bros - Mario Luigi_177
+    21300356: NES - Super Mario Bros - Mario Luigi_178
+    21300358: NES - Super Mario Bros - Mario Luigi_179
+    21300360: NES - Super Mario Bros - Mario Luigi_180
+    21300362: NES - Super Mario Bros - Mario Luigi_181
+    21300364: NES - Super Mario Bros - Mario Luigi_182
+    21300366: NES - Super Mario Bros - Mario Luigi_183
+    21300368: NES - Super Mario Bros - Mario Luigi_184
+    21300370: NES - Super Mario Bros - Mario Luigi_185
+    21300372: NES - Super Mario Bros - Mario Luigi_186
+    21300374: NES - Super Mario Bros - Mario Luigi_187
+    21300376: NES - Super Mario Bros - Mario Luigi_188
+    21300378: NES - Super Mario Bros - Mario Luigi_189
+    21300380: NES - Super Mario Bros - Mario Luigi_190
+    21300382: NES - Super Mario Bros - Mario Luigi_191
+    21300384: NES - Super Mario Bros - Mario Luigi_192
+    21300386: NES - Super Mario Bros - Mario Luigi_193
+    21300388: NES - Super Mario Bros - Mario Luigi_194
+    21300390: NES - Super Mario Bros - Mario Luigi_195
+    21300392: NES - Super Mario Bros - Mario Luigi_196
+    21300394: NES - Super Mario Bros - Mario Luigi_197
+    21300396: NES - Super Mario Bros - Mario Luigi_198
+    21300398: NES - Super Mario Bros - Mario Luigi_199
+    21300400: NES - Super Mario Bros - Mario Luigi_200
+    21300402: NES - Super Mario Bros - Mario Luigi_201
+    21300404: NES - Super Mario Bros - Mario Luigi_202
+    21300406: NES - Super Mario Bros - Mario Luigi_203
+    21300408: NES - Super Mario Bros - Mario Luigi_204
+    21300410: NES - Super Mario Bros - Mario Luigi_205
+    21300412: NES - Super Mario Bros - Mario Luigi_206
+    21300414: NES - Super Mario Bros - Mario Luigi_207
+    21300416: NES - Super Mario Bros - Mario Luigi_208
+    21300418: NES - Super Mario Bros - Mario Luigi_209
+    21300420: NES - Super Mario Bros - Mario Luigi_210
+    21300422: NES - Super Mario Bros - Mario Luigi_211
+    21300424: NES - Super Mario Bros - Mario Luigi_212
+    21300426: NES - Super Mario Bros - Mario Luigi_213
+    21300428: NES - Super Mario Bros - Mario Luigi_214
+    21300430: NES - Super Mario Bros - Mario Luigi_215
+    21300432: NES - Super Mario Bros - Mario Luigi_216
+    21300434: NES - Super Mario Bros - Mario Luigi_217
+    21300436: NES - Super Mario Bros - Mario Luigi_218
+    21300438: NES - Super Mario Bros - Mario Luigi_219
+    21300440: NES - Super Mario Bros - Mario Luigi_220
+    21300442: NES - Super Mario Bros - Mario Luigi_221
+    21300444: NES - Super Mario Bros - Mario Luigi_222
+    21300446: NES - Super Mario Bros - Mario Luigi_223
+    21300448: NES - Super Mario Bros - Mario Luigi_224
+    21300450: NES - Super Mario Bros - Mario Luigi_225
+    21300452: NES - Super Mario Bros - Mario Luigi_226
+    21300454: NES - Super Mario Bros - Mario Luigi_227
+    21300456: NES - Super Mario Bros - Mario Luigi_228
+    21300458: NES - Super Mario Bros - Mario Luigi_229
+    21300460: NES - Super Mario Bros - Mario Luigi_230
+    21300462: NES - Super Mario Bros - Mario Luigi_231
+    21300464: NES - Super Mario Bros - Mario Luigi_232
+    21300466: NES - Super Mario Bros - Mario Luigi_233
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: NES - Super Mario Bros - Mario Luigi_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 512
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 480
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_3
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 496
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_4
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 499
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_5
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 496
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 497
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_7
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 496
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_8
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 496
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_9
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 497
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 496
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_11
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 496
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_12
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 496
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_13
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 497
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_14
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 480
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_15
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 480
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_16
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 480
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_17
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 480
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_18
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 480
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_19
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 480
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_20
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 480
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 464
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_23
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 432
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_24
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 448
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_25
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 451
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_26
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 448
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_27
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 449
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_28
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 448
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_29
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 448
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_30
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 449
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_31
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_32
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 448
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_33
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 448
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_34
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 449
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_35
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 432
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_36
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 432
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_37
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 432
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_38
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 432
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_39
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 432
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_40
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 432
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_41
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 432
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_42
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 432
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_44
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 416
+        width: 44
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_45
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 384
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_46
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 400
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_47
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 403
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_48
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 400
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_49
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 401
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_50
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 400
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_51
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 400
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_52
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 401
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_53
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 400
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_54
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 400
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_55
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 400
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_56
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 401
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_57
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 384
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_58
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 384
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_59
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 384
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_60
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 384
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_61
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 384
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_62
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 384
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_63
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 384
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_64
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 359
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_66
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 368
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_67
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 336
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_68
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 352
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_69
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 355
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_70
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 352
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_71
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 353
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_72
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 352
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_73
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 352
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_74
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 353
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_75
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_76
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 352
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_77
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 352
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_78
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 353
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_79
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 336
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_80
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 336
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_81
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 336
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_82
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 336
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_83
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 336
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_84
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 336
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_85
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 336
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_86
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 336
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 311
+        width: 53
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_88
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 288
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_89
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 304
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_90
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 307
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_91
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 304
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_92
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 305
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_93
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 304
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_94
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 304
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_95
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 305
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_96
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 304
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_97
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 304
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_98
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 304
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_99
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 305
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_100
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 288
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_101
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 288
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_102
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 288
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_103
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 288
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_104
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 288
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_105
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 288
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_106
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 288
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_107
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 263
+        width: 53
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_109
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 240
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_110
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 256
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_111
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 259
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_112
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 256
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_113
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 257
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_114
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 256
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_115
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 256
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_116
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 257
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_117
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_118
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 256
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_119
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 256
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_120
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 257
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_121
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 240
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_122
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 240
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_123
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 240
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_124
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 240
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_125
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 240
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_126
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 240
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_127
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 240
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_128
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_129
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 215
+        width: 53
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_130
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 192
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_131
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 208
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_132
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 211
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_133
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 208
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_134
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 209
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_135
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 208
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_136
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 208
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_137
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 209
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 208
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_139
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 208
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_140
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 208
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_141
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 209
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_142
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 192
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_143
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 192
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_144
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 192
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_145
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 192
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_146
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 192
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_147
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 192
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_148
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 192
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_149
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 167
+        width: 77
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_151
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 144
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_152
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 160
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_153
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 163
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_154
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 160
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_155
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 161
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_156
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 160
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_157
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 160
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_158
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 161
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_159
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_160
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 160
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_161
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 160
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_162
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 161
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_163
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 144
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_164
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 144
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_165
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 144
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_166
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 144
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_167
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 144
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_168
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 144
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_169
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 144
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_170
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_171
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 119
+        width: 65
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_172
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 96
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_173
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 112
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_174
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 115
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_175
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 112
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_176
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 113
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_177
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 112
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_178
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 112
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_179
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 113
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_180
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 112
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_181
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 112
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_182
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 112
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_183
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 113
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_184
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 96
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_185
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 96
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_186
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 96
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_187
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 96
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_188
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 96
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_189
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 96
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_190
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 96
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_191
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 53
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_193
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 48
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_194
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 64
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_195
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 67
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_196
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 64
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_197
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 65
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_198
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 64
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_199
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 64
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_200
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 65
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_201
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_202
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 64
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_203
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 64
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_204
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 65
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_205
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 48
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_206
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 48
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_207
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 48
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_208
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 48
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_209
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 48
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_210
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 48
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_211
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 48
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_212
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_213
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 53
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_214
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 0
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_215
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 16
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_216
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 19
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_217
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 16
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_218
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 17
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_219
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 16
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_220
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 16
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_221
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 17
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_222
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 16
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_223
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 16
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_224
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 16
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_225
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 17
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_226
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_227
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 0
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_228
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_229
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 0
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_230
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 0
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_231
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 0
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_232
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 0
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NES - Super Mario Bros - Mario Luigi_233
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
