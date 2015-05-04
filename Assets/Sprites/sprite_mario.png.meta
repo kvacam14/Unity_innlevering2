@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 38944bb4c4f9d9e4cbb7cf0cf0ac2fb8
-timeCreated: 1430741698
+timeCreated: 1429908745
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -80,7 +80,7 @@ TextureImporter:
         y: 4
         width: 16
         height: 32
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: sprite_mario_1
@@ -90,7 +90,7 @@ TextureImporter:
         y: 4
         width: 16
         height: 32
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: sprite_mario_2
@@ -100,7 +100,7 @@ TextureImporter:
         y: 4
         width: 16
         height: 32
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: sprite_mario_3
@@ -110,7 +110,7 @@ TextureImporter:
         y: 4
         width: 16
         height: 32
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: sprite_mario_4
@@ -120,7 +120,7 @@ TextureImporter:
         y: 4
         width: 16
         height: 32
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: sprite_mario_5
@@ -130,7 +130,7 @@ TextureImporter:
         y: 4
         width: 16
         height: 32
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: sprite_mario_6
@@ -140,7 +140,7 @@ TextureImporter:
         y: 4
         width: 16
         height: 32
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: sprite_mario_7
@@ -150,7 +150,7 @@ TextureImporter:
         y: 4
         width: 16
         height: 32
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: sprite_mario_8
@@ -160,7 +160,7 @@ TextureImporter:
         y: 4
         width: 16
         height: 32
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: sprite_mario_9
@@ -170,7 +170,7 @@ TextureImporter:
         y: 4
         width: 16
         height: 32
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: sprite_mario_10
@@ -180,7 +180,7 @@ TextureImporter:
         y: 4
         width: 16
         height: 32
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: sprite_mario_11
@@ -190,7 +190,7 @@ TextureImporter:
         y: 4
         width: 16
         height: 32
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: sprite_mario_12
@@ -200,7 +200,7 @@ TextureImporter:
         y: 4
         width: 16
         height: 32
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: sprite_mario_13
@@ -210,7 +210,7 @@ TextureImporter:
         y: 4
         width: 16
         height: 32
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: sprite_mario_14
@@ -220,7 +220,7 @@ TextureImporter:
         y: 4
         width: 16
         height: 32
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: sprite_mario_15
@@ -230,7 +230,7 @@ TextureImporter:
         y: 4
         width: 16
         height: 32
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: sprite_mario_16
@@ -240,7 +240,7 @@ TextureImporter:
         y: 4
         width: 16
         height: 32
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: sprite_mario_17
@@ -250,7 +250,7 @@ TextureImporter:
         y: 4
         width: 16
         height: 32
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: sprite_mario_18
@@ -260,7 +260,7 @@ TextureImporter:
         y: 4
         width: 16
         height: 32
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: sprite_mario_19
@@ -270,7 +270,7 @@ TextureImporter:
         y: 4
         width: 16
         height: 32
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: sprite_mario_20
@@ -280,7 +280,7 @@ TextureImporter:
         y: 4
         width: 16
         height: 32
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: sprite_mario_21
@@ -290,7 +290,7 @@ TextureImporter:
         y: 4
         width: 16
         height: 32
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: sprite_mario_22
@@ -300,7 +300,7 @@ TextureImporter:
         y: 4
         width: 16
         height: 32
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: sprite_mario_23
@@ -310,7 +310,7 @@ TextureImporter:
         y: 4
         width: 16
         height: 32
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 

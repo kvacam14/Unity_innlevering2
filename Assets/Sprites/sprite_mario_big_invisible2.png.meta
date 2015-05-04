@@ -1,30 +1,9 @@
 fileFormatVersion: 2
 guid: 4238cb296be91c1418f78124d5bda0b9
-timeCreated: 1430741859
+timeCreated: 1430050001
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: sprite_mario_big_invisible2_0
-    21300002: sprite_mario_big_invisible2_1
-    21300004: sprite_mario_big_invisible2_2
-    21300006: sprite_mario_big_invisible2_3
-    21300008: sprite_mario_big_invisible2_4
-    21300010: sprite_mario_big_invisible2_5
-    21300012: sprite_mario_big_invisible2_6
-    21300014: sprite_mario_big_invisible2_7
-    21300016: sprite_mario_big_invisible2_8
-    21300018: sprite_mario_big_invisible2_9
-    21300020: sprite_mario_big_invisible2_10
-    21300022: sprite_mario_big_invisible2_11
-    21300024: sprite_mario_big_invisible2_12
-    21300026: sprite_mario_big_invisible2_13
-    21300028: sprite_mario_big_invisible2_14
-    21300030: sprite_mario_big_invisible2_15
-    21300032: sprite_mario_big_invisible2_16
-    21300034: sprite_mario_big_invisible2_17
-    21300036: sprite_mario_big_invisible2_18
-    21300038: sprite_mario_big_invisible2_19
-    21300040: sprite_mario_big_invisible2_20
+  fileIDToRecycleName: {}
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -50,15 +29,15 @@ TextureImporter:
   textureFormat: -1
   maxTextureSize: 2048
   textureSettings:
-    filterMode: 0
-    aniso: 16
+    filterMode: -1
+    aniso: -1
     mipBias: -1
     wrapMode: 1
   nPOTScale: 0
   lightmap: 0
   rGBM: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -69,217 +48,7 @@ TextureImporter:
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites:
-    - name: sprite_mario_big_invisible2_0
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 6
-        width: 16
-        height: 32
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: sprite_mario_big_invisible2_1
-      rect:
-        serializedVersion: 2
-        x: 17
-        y: 6
-        width: 16
-        height: 32
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: sprite_mario_big_invisible2_2
-      rect:
-        serializedVersion: 2
-        x: 33
-        y: 6
-        width: 16
-        height: 32
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: sprite_mario_big_invisible2_3
-      rect:
-        serializedVersion: 2
-        x: 49
-        y: 6
-        width: 16
-        height: 32
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: sprite_mario_big_invisible2_4
-      rect:
-        serializedVersion: 2
-        x: 65
-        y: 6
-        width: 16
-        height: 32
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: sprite_mario_big_invisible2_5
-      rect:
-        serializedVersion: 2
-        x: 81
-        y: 6
-        width: 16
-        height: 32
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: sprite_mario_big_invisible2_6
-      rect:
-        serializedVersion: 2
-        x: 97
-        y: 6
-        width: 16
-        height: 32
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: sprite_mario_big_invisible2_7
-      rect:
-        serializedVersion: 2
-        x: 113
-        y: 6
-        width: 16
-        height: 32
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: sprite_mario_big_invisible2_8
-      rect:
-        serializedVersion: 2
-        x: 129
-        y: 6
-        width: 16
-        height: 32
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: sprite_mario_big_invisible2_9
-      rect:
-        serializedVersion: 2
-        x: 145
-        y: 6
-        width: 16
-        height: 32
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: sprite_mario_big_invisible2_10
-      rect:
-        serializedVersion: 2
-        x: 161
-        y: 6
-        width: 16
-        height: 32
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: sprite_mario_big_invisible2_11
-      rect:
-        serializedVersion: 2
-        x: 177
-        y: 6
-        width: 16
-        height: 32
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: sprite_mario_big_invisible2_12
-      rect:
-        serializedVersion: 2
-        x: 193
-        y: 6
-        width: 16
-        height: 32
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: sprite_mario_big_invisible2_13
-      rect:
-        serializedVersion: 2
-        x: 209
-        y: 6
-        width: 16
-        height: 32
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: sprite_mario_big_invisible2_14
-      rect:
-        serializedVersion: 2
-        x: 225
-        y: 6
-        width: 16
-        height: 32
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: sprite_mario_big_invisible2_15
-      rect:
-        serializedVersion: 2
-        x: 241
-        y: 6
-        width: 16
-        height: 32
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: sprite_mario_big_invisible2_16
-      rect:
-        serializedVersion: 2
-        x: 257
-        y: 6
-        width: 16
-        height: 32
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: sprite_mario_big_invisible2_17
-      rect:
-        serializedVersion: 2
-        x: 273
-        y: 6
-        width: 16
-        height: 32
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: sprite_mario_big_invisible2_18
-      rect:
-        serializedVersion: 2
-        x: 289
-        y: 6
-        width: 16
-        height: 32
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: sprite_mario_big_invisible2_19
-      rect:
-        serializedVersion: 2
-        x: 305
-        y: 6
-        width: 16
-        height: 32
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: sprite_mario_big_invisible2_20
-      rect:
-        serializedVersion: 2
-        x: 321
-        y: 6
-        width: 16
-        height: 32
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+    sprites: []
   spritePackingTag: 
   userData: 
   assetBundleName: 

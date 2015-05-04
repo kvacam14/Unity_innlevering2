@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: f790440907b9a774bb6178871c04ca89
-timeCreated: 1430741564
+timeCreated: 1430142974
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -64,7 +64,7 @@ TextureImporter:
         y: 0
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: QUESTION_1
@@ -74,7 +74,7 @@ TextureImporter:
         y: 0
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: QUESTION_2
@@ -84,7 +84,7 @@ TextureImporter:
         y: 0
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: QUESTION_3
@@ -94,7 +94,7 @@ TextureImporter:
         y: 0
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 

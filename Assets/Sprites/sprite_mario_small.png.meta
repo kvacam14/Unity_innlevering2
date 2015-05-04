@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: a70daff48440ffe4b8b9b1d8a96da3d0
-timeCreated: 1430741891
+timeCreated: 1429908628
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -70,7 +70,7 @@ TextureImporter:
         y: 1
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: sprite_mario_small_1
@@ -80,7 +80,7 @@ TextureImporter:
         y: 1
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: sprite_mario_small_2
@@ -90,7 +90,7 @@ TextureImporter:
         y: 1
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: sprite_mario_small_3
@@ -100,7 +100,7 @@ TextureImporter:
         y: 1
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: sprite_mario_small_4
@@ -110,7 +110,7 @@ TextureImporter:
         y: 1
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: sprite_mario_small_5
@@ -120,7 +120,7 @@ TextureImporter:
         y: 1
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: sprite_mario_small_6
@@ -130,7 +130,7 @@ TextureImporter:
         y: 1
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: sprite_mario_small_7
@@ -140,7 +140,7 @@ TextureImporter:
         y: 1
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: sprite_mario_small_8
@@ -150,7 +150,7 @@ TextureImporter:
         y: 1
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: sprite_mario_small_9
@@ -160,7 +160,7 @@ TextureImporter:
         y: 1
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: sprite_mario_small_10
@@ -170,7 +170,7 @@ TextureImporter:
         y: 1
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: sprite_mario_small_11
@@ -180,7 +180,7 @@ TextureImporter:
         y: 1
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: sprite_mario_small_12
@@ -190,7 +190,7 @@ TextureImporter:
         y: 1
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: sprite_mario_small_13
@@ -200,7 +200,7 @@ TextureImporter:
         y: 1
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 

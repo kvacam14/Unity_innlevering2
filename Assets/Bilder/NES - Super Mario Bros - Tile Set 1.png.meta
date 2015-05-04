@@ -1,14 +1,6 @@
 fileFormatVersion: 2
 guid: dc3c8139b5b83449c872c71a9d4800e7
-<<<<<<< HEAD
-timeCreated: 1430741942
-=======
-<<<<<<< HEAD
-timeCreated: 1430741942
-=======
-timeCreated: 1430741394
->>>>>>> 9e0d49aad65c5b7d61899d23df620c6b47a6cc36
->>>>>>> a079bade168b37e5a9363fd3bf12b9882057db78
+timeCreated: 1430674572
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -742,7 +734,7 @@ TextureImporter:
         y: 432
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_1
@@ -752,7 +744,7 @@ TextureImporter:
         y: 432
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_2
@@ -762,7 +754,7 @@ TextureImporter:
         y: 432
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_3
@@ -772,7 +764,7 @@ TextureImporter:
         y: 432
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_4
@@ -782,7 +774,7 @@ TextureImporter:
         y: 432
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_5
@@ -792,7 +784,7 @@ TextureImporter:
         y: 432
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_6
@@ -802,7 +794,7 @@ TextureImporter:
         y: 432
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_7
@@ -812,7 +804,7 @@ TextureImporter:
         y: 432
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_8
@@ -822,7 +814,7 @@ TextureImporter:
         y: 432
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_9
@@ -832,7 +824,7 @@ TextureImporter:
         y: 432
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_10
@@ -842,7 +834,7 @@ TextureImporter:
         y: 432
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_11
@@ -852,7 +844,7 @@ TextureImporter:
         y: 432
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_12
@@ -862,7 +854,7 @@ TextureImporter:
         y: 432
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_13
@@ -872,7 +864,7 @@ TextureImporter:
         y: 432
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_14
@@ -882,7 +874,7 @@ TextureImporter:
         y: 432
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_15
@@ -892,7 +884,7 @@ TextureImporter:
         y: 432
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_16
@@ -902,7 +894,7 @@ TextureImporter:
         y: 432
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_17
@@ -912,7 +904,7 @@ TextureImporter:
         y: 432
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_18
@@ -922,7 +914,7 @@ TextureImporter:
         y: 432
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_19
@@ -932,7 +924,7 @@ TextureImporter:
         y: 432
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_20
@@ -942,7 +934,7 @@ TextureImporter:
         y: 432
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_21
@@ -952,7 +944,7 @@ TextureImporter:
         y: 432
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_22
@@ -962,7 +954,7 @@ TextureImporter:
         y: 432
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_23
@@ -972,7 +964,7 @@ TextureImporter:
         y: 432
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_24
@@ -982,7 +974,7 @@ TextureImporter:
         y: 432
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_25
@@ -992,7 +984,7 @@ TextureImporter:
         y: 432
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_26
@@ -1002,7 +994,7 @@ TextureImporter:
         y: 432
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_27
@@ -1012,7 +1004,7 @@ TextureImporter:
         y: 432
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_28
@@ -1022,7 +1014,7 @@ TextureImporter:
         y: 416
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_29
@@ -1032,7 +1024,7 @@ TextureImporter:
         y: 416
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_30
@@ -1042,7 +1034,7 @@ TextureImporter:
         y: 416
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_31
@@ -1052,7 +1044,7 @@ TextureImporter:
         y: 416
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_32
@@ -1062,7 +1054,7 @@ TextureImporter:
         y: 416
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_33
@@ -1072,7 +1064,7 @@ TextureImporter:
         y: 416
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_34
@@ -1082,7 +1074,7 @@ TextureImporter:
         y: 416
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_35
@@ -1092,7 +1084,7 @@ TextureImporter:
         y: 416
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_36
@@ -1102,7 +1094,7 @@ TextureImporter:
         y: 416
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_37
@@ -1112,7 +1104,7 @@ TextureImporter:
         y: 416
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_38
@@ -1122,7 +1114,7 @@ TextureImporter:
         y: 416
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_39
@@ -1132,7 +1124,7 @@ TextureImporter:
         y: 416
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_40
@@ -1142,7 +1134,7 @@ TextureImporter:
         y: 416
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_41
@@ -1152,7 +1144,7 @@ TextureImporter:
         y: 416
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_42
@@ -1162,7 +1154,7 @@ TextureImporter:
         y: 416
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_43
@@ -1172,7 +1164,7 @@ TextureImporter:
         y: 416
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_44
@@ -1182,7 +1174,7 @@ TextureImporter:
         y: 416
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_45
@@ -1192,7 +1184,7 @@ TextureImporter:
         y: 416
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_46
@@ -1202,7 +1194,7 @@ TextureImporter:
         y: 416
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_47
@@ -1212,7 +1204,7 @@ TextureImporter:
         y: 416
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_48
@@ -1222,7 +1214,7 @@ TextureImporter:
         y: 416
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_49
@@ -1232,7 +1224,7 @@ TextureImporter:
         y: 416
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_50
@@ -1242,7 +1234,7 @@ TextureImporter:
         y: 416
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_51
@@ -1252,7 +1244,7 @@ TextureImporter:
         y: 416
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_52
@@ -1262,7 +1254,7 @@ TextureImporter:
         y: 416
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_53
@@ -1272,7 +1264,7 @@ TextureImporter:
         y: 416
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_54
@@ -1282,7 +1274,7 @@ TextureImporter:
         y: 416
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_55
@@ -1292,7 +1284,7 @@ TextureImporter:
         y: 416
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_56
@@ -1302,7 +1294,7 @@ TextureImporter:
         y: 416
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_57
@@ -1312,7 +1304,7 @@ TextureImporter:
         y: 416
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_58
@@ -1322,7 +1314,7 @@ TextureImporter:
         y: 416
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_59
@@ -1332,7 +1324,7 @@ TextureImporter:
         y: 416
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_60
@@ -1342,7 +1334,7 @@ TextureImporter:
         y: 416
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_61
@@ -1352,7 +1344,7 @@ TextureImporter:
         y: 400
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_62
@@ -1362,7 +1354,7 @@ TextureImporter:
         y: 400
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_63
@@ -1372,7 +1364,7 @@ TextureImporter:
         y: 400
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_64
@@ -1382,7 +1374,7 @@ TextureImporter:
         y: 400
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_65
@@ -1392,7 +1384,7 @@ TextureImporter:
         y: 400
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_66
@@ -1402,7 +1394,7 @@ TextureImporter:
         y: 400
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_67
@@ -1412,7 +1404,7 @@ TextureImporter:
         y: 400
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_68
@@ -1422,7 +1414,7 @@ TextureImporter:
         y: 400
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_69
@@ -1432,7 +1424,7 @@ TextureImporter:
         y: 400
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_70
@@ -1442,7 +1434,7 @@ TextureImporter:
         y: 400
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_71
@@ -1452,7 +1444,7 @@ TextureImporter:
         y: 400
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_72
@@ -1462,7 +1454,7 @@ TextureImporter:
         y: 400
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_73
@@ -1472,7 +1464,7 @@ TextureImporter:
         y: 400
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_74
@@ -1482,7 +1474,7 @@ TextureImporter:
         y: 400
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_75
@@ -1492,7 +1484,7 @@ TextureImporter:
         y: 400
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_76
@@ -1502,7 +1494,7 @@ TextureImporter:
         y: 400
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_77
@@ -1512,7 +1504,7 @@ TextureImporter:
         y: 400
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_78
@@ -1522,7 +1514,7 @@ TextureImporter:
         y: 400
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_79
@@ -1532,7 +1524,7 @@ TextureImporter:
         y: 400
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_80
@@ -1542,7 +1534,7 @@ TextureImporter:
         y: 400
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_81
@@ -1552,7 +1544,7 @@ TextureImporter:
         y: 400
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_82
@@ -1562,7 +1554,7 @@ TextureImporter:
         y: 400
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_83
@@ -1572,7 +1564,7 @@ TextureImporter:
         y: 400
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_84
@@ -1582,7 +1574,7 @@ TextureImporter:
         y: 400
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_85
@@ -1592,7 +1584,7 @@ TextureImporter:
         y: 400
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_86
@@ -1602,7 +1594,7 @@ TextureImporter:
         y: 400
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_87
@@ -1612,7 +1604,7 @@ TextureImporter:
         y: 400
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_88
@@ -1622,7 +1614,7 @@ TextureImporter:
         y: 400
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_89
@@ -1632,7 +1624,7 @@ TextureImporter:
         y: 400
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_90
@@ -1642,7 +1634,7 @@ TextureImporter:
         y: 400
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_91
@@ -1652,7 +1644,7 @@ TextureImporter:
         y: 400
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_92
@@ -1662,7 +1654,7 @@ TextureImporter:
         y: 400
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_93
@@ -1672,7 +1664,7 @@ TextureImporter:
         y: 400
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_94
@@ -1682,7 +1674,7 @@ TextureImporter:
         y: 384
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_95
@@ -1692,7 +1684,7 @@ TextureImporter:
         y: 384
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_96
@@ -1702,7 +1694,7 @@ TextureImporter:
         y: 384
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_97
@@ -1712,7 +1704,7 @@ TextureImporter:
         y: 384
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_98
@@ -1722,7 +1714,7 @@ TextureImporter:
         y: 384
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_99
@@ -1732,7 +1724,7 @@ TextureImporter:
         y: 384
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_100
@@ -1742,7 +1734,7 @@ TextureImporter:
         y: 384
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_101
@@ -1752,7 +1744,7 @@ TextureImporter:
         y: 384
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_102
@@ -1762,7 +1754,7 @@ TextureImporter:
         y: 384
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_103
@@ -1772,7 +1764,7 @@ TextureImporter:
         y: 384
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_104
@@ -1782,7 +1774,7 @@ TextureImporter:
         y: 384
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_105
@@ -1792,7 +1784,7 @@ TextureImporter:
         y: 384
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_106
@@ -1802,7 +1794,7 @@ TextureImporter:
         y: 384
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_107
@@ -1812,7 +1804,7 @@ TextureImporter:
         y: 384
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_108
@@ -1822,7 +1814,7 @@ TextureImporter:
         y: 384
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_109
@@ -1832,7 +1824,7 @@ TextureImporter:
         y: 384
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_110
@@ -1842,7 +1834,7 @@ TextureImporter:
         y: 384
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_111
@@ -1852,7 +1844,7 @@ TextureImporter:
         y: 384
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_112
@@ -1862,7 +1854,7 @@ TextureImporter:
         y: 384
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_113
@@ -1872,7 +1864,7 @@ TextureImporter:
         y: 384
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_114
@@ -1882,7 +1874,7 @@ TextureImporter:
         y: 384
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_115
@@ -1892,7 +1884,7 @@ TextureImporter:
         y: 384
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_116
@@ -1902,7 +1894,7 @@ TextureImporter:
         y: 384
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_117
@@ -1912,7 +1904,7 @@ TextureImporter:
         y: 384
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_118
@@ -1922,7 +1914,7 @@ TextureImporter:
         y: 384
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_119
@@ -1932,7 +1924,7 @@ TextureImporter:
         y: 384
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_120
@@ -1942,7 +1934,7 @@ TextureImporter:
         y: 384
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_121
@@ -1952,7 +1944,7 @@ TextureImporter:
         y: 384
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_122
@@ -1962,7 +1954,7 @@ TextureImporter:
         y: 384
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_123
@@ -1972,7 +1964,7 @@ TextureImporter:
         y: 384
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_124
@@ -1982,7 +1974,7 @@ TextureImporter:
         y: 384
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_125
@@ -1992,7 +1984,7 @@ TextureImporter:
         y: 384
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_126
@@ -2002,7 +1994,7 @@ TextureImporter:
         y: 384
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_127
@@ -2012,7 +2004,7 @@ TextureImporter:
         y: 368
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_128
@@ -2022,7 +2014,7 @@ TextureImporter:
         y: 368
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_129
@@ -2032,7 +2024,7 @@ TextureImporter:
         y: 368
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_130
@@ -2042,7 +2034,7 @@ TextureImporter:
         y: 368
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_131
@@ -2052,7 +2044,7 @@ TextureImporter:
         y: 368
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_132
@@ -2062,7 +2054,7 @@ TextureImporter:
         y: 368
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_133
@@ -2072,7 +2064,7 @@ TextureImporter:
         y: 368
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_134
@@ -2082,7 +2074,7 @@ TextureImporter:
         y: 368
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_135
@@ -2092,7 +2084,7 @@ TextureImporter:
         y: 368
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_136
@@ -2102,7 +2094,7 @@ TextureImporter:
         y: 368
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_137
@@ -2112,7 +2104,7 @@ TextureImporter:
         y: 368
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_138
@@ -2122,7 +2114,7 @@ TextureImporter:
         y: 368
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_139
@@ -2132,7 +2124,7 @@ TextureImporter:
         y: 368
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_140
@@ -2142,7 +2134,7 @@ TextureImporter:
         y: 368
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_141
@@ -2152,7 +2144,7 @@ TextureImporter:
         y: 368
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_142
@@ -2162,7 +2154,7 @@ TextureImporter:
         y: 368
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_143
@@ -2172,7 +2164,7 @@ TextureImporter:
         y: 368
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_144
@@ -2182,7 +2174,7 @@ TextureImporter:
         y: 368
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_145
@@ -2192,7 +2184,7 @@ TextureImporter:
         y: 368
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_146
@@ -2202,7 +2194,7 @@ TextureImporter:
         y: 368
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_147
@@ -2212,7 +2204,7 @@ TextureImporter:
         y: 368
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_148
@@ -2222,7 +2214,7 @@ TextureImporter:
         y: 368
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_149
@@ -2232,7 +2224,7 @@ TextureImporter:
         y: 368
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_150
@@ -2242,7 +2234,7 @@ TextureImporter:
         y: 368
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_151
@@ -2252,7 +2244,7 @@ TextureImporter:
         y: 368
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_152
@@ -2262,7 +2254,7 @@ TextureImporter:
         y: 368
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_153
@@ -2272,7 +2264,7 @@ TextureImporter:
         y: 368
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_154
@@ -2282,7 +2274,7 @@ TextureImporter:
         y: 368
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_155
@@ -2292,7 +2284,7 @@ TextureImporter:
         y: 368
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_156
@@ -2302,7 +2294,7 @@ TextureImporter:
         y: 368
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_157
@@ -2312,7 +2304,7 @@ TextureImporter:
         y: 368
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_158
@@ -2322,7 +2314,7 @@ TextureImporter:
         y: 368
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_159
@@ -2332,7 +2324,7 @@ TextureImporter:
         y: 368
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_160
@@ -2342,7 +2334,7 @@ TextureImporter:
         y: 352
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_161
@@ -2352,7 +2344,7 @@ TextureImporter:
         y: 352
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_162
@@ -2362,7 +2354,7 @@ TextureImporter:
         y: 352
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_163
@@ -2372,7 +2364,7 @@ TextureImporter:
         y: 352
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_164
@@ -2382,7 +2374,7 @@ TextureImporter:
         y: 352
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_165
@@ -2392,7 +2384,7 @@ TextureImporter:
         y: 352
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_166
@@ -2402,7 +2394,7 @@ TextureImporter:
         y: 352
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_167
@@ -2412,7 +2404,7 @@ TextureImporter:
         y: 352
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_168
@@ -2422,7 +2414,7 @@ TextureImporter:
         y: 352
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_169
@@ -2432,7 +2424,7 @@ TextureImporter:
         y: 352
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_170
@@ -2442,7 +2434,7 @@ TextureImporter:
         y: 352
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_171
@@ -2452,7 +2444,7 @@ TextureImporter:
         y: 352
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_172
@@ -2462,7 +2454,7 @@ TextureImporter:
         y: 352
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_173
@@ -2472,7 +2464,7 @@ TextureImporter:
         y: 352
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_174
@@ -2482,7 +2474,7 @@ TextureImporter:
         y: 352
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_175
@@ -2492,7 +2484,7 @@ TextureImporter:
         y: 352
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_176
@@ -2502,7 +2494,7 @@ TextureImporter:
         y: 352
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_177
@@ -2512,7 +2504,7 @@ TextureImporter:
         y: 352
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_178
@@ -2522,7 +2514,7 @@ TextureImporter:
         y: 352
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_179
@@ -2532,7 +2524,7 @@ TextureImporter:
         y: 352
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_180
@@ -2542,7 +2534,7 @@ TextureImporter:
         y: 352
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_181
@@ -2552,7 +2544,7 @@ TextureImporter:
         y: 352
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_182
@@ -2562,7 +2554,7 @@ TextureImporter:
         y: 352
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_183
@@ -2572,7 +2564,7 @@ TextureImporter:
         y: 352
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_184
@@ -2582,7 +2574,7 @@ TextureImporter:
         y: 352
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_185
@@ -2592,7 +2584,7 @@ TextureImporter:
         y: 352
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_186
@@ -2602,7 +2594,7 @@ TextureImporter:
         y: 352
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_187
@@ -2612,7 +2604,7 @@ TextureImporter:
         y: 352
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_188
@@ -2622,7 +2614,7 @@ TextureImporter:
         y: 352
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_189
@@ -2632,7 +2624,7 @@ TextureImporter:
         y: 352
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_190
@@ -2642,7 +2634,7 @@ TextureImporter:
         y: 352
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_191
@@ -2652,7 +2644,7 @@ TextureImporter:
         y: 352
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_192
@@ -2662,7 +2654,7 @@ TextureImporter:
         y: 352
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_193
@@ -2672,7 +2664,7 @@ TextureImporter:
         y: 336
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_194
@@ -2682,7 +2674,7 @@ TextureImporter:
         y: 336
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_195
@@ -2692,7 +2684,7 @@ TextureImporter:
         y: 336
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_196
@@ -2702,7 +2694,7 @@ TextureImporter:
         y: 336
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_197
@@ -2712,7 +2704,7 @@ TextureImporter:
         y: 336
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_198
@@ -2722,7 +2714,7 @@ TextureImporter:
         y: 336
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_199
@@ -2732,7 +2724,7 @@ TextureImporter:
         y: 336
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_200
@@ -2742,7 +2734,7 @@ TextureImporter:
         y: 336
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_201
@@ -2752,7 +2744,7 @@ TextureImporter:
         y: 336
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_202
@@ -2762,7 +2754,7 @@ TextureImporter:
         y: 336
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_203
@@ -2772,7 +2764,7 @@ TextureImporter:
         y: 336
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_204
@@ -2782,7 +2774,7 @@ TextureImporter:
         y: 336
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_205
@@ -2792,7 +2784,7 @@ TextureImporter:
         y: 336
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_206
@@ -2802,7 +2794,7 @@ TextureImporter:
         y: 336
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_207
@@ -2812,7 +2804,7 @@ TextureImporter:
         y: 336
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_208
@@ -2822,7 +2814,7 @@ TextureImporter:
         y: 336
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_209
@@ -2832,7 +2824,7 @@ TextureImporter:
         y: 336
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_210
@@ -2842,7 +2834,7 @@ TextureImporter:
         y: 336
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_211
@@ -2852,7 +2844,7 @@ TextureImporter:
         y: 336
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_212
@@ -2862,7 +2854,7 @@ TextureImporter:
         y: 336
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_213
@@ -2872,7 +2864,7 @@ TextureImporter:
         y: 336
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_214
@@ -2882,7 +2874,7 @@ TextureImporter:
         y: 336
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_215
@@ -2892,7 +2884,7 @@ TextureImporter:
         y: 336
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_216
@@ -2902,7 +2894,7 @@ TextureImporter:
         y: 336
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_217
@@ -2912,7 +2904,7 @@ TextureImporter:
         y: 336
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_218
@@ -2922,7 +2914,7 @@ TextureImporter:
         y: 336
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_219
@@ -2932,7 +2924,7 @@ TextureImporter:
         y: 336
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_220
@@ -2942,7 +2934,7 @@ TextureImporter:
         y: 336
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_221
@@ -2952,7 +2944,7 @@ TextureImporter:
         y: 336
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_222
@@ -2962,7 +2954,7 @@ TextureImporter:
         y: 336
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_223
@@ -2972,7 +2964,7 @@ TextureImporter:
         y: 336
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_224
@@ -2982,7 +2974,7 @@ TextureImporter:
         y: 336
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_225
@@ -2992,7 +2984,7 @@ TextureImporter:
         y: 336
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_226
@@ -3002,7 +2994,7 @@ TextureImporter:
         y: 320
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_227
@@ -3012,7 +3004,7 @@ TextureImporter:
         y: 320
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_228
@@ -3022,7 +3014,7 @@ TextureImporter:
         y: 320
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_229
@@ -3032,7 +3024,7 @@ TextureImporter:
         y: 320
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_230
@@ -3042,7 +3034,7 @@ TextureImporter:
         y: 320
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_231
@@ -3052,7 +3044,7 @@ TextureImporter:
         y: 320
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_232
@@ -3062,7 +3054,7 @@ TextureImporter:
         y: 320
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_233
@@ -3072,7 +3064,7 @@ TextureImporter:
         y: 320
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_234
@@ -3082,7 +3074,7 @@ TextureImporter:
         y: 320
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_235
@@ -3092,7 +3084,7 @@ TextureImporter:
         y: 320
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_236
@@ -3102,7 +3094,7 @@ TextureImporter:
         y: 320
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_237
@@ -3112,7 +3104,7 @@ TextureImporter:
         y: 320
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_238
@@ -3122,7 +3114,7 @@ TextureImporter:
         y: 320
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_239
@@ -3132,7 +3124,7 @@ TextureImporter:
         y: 320
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_240
@@ -3142,7 +3134,7 @@ TextureImporter:
         y: 320
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_241
@@ -3152,7 +3144,7 @@ TextureImporter:
         y: 320
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_242
@@ -3162,7 +3154,7 @@ TextureImporter:
         y: 320
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_243
@@ -3172,7 +3164,7 @@ TextureImporter:
         y: 320
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_244
@@ -3182,7 +3174,7 @@ TextureImporter:
         y: 320
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_245
@@ -3192,7 +3184,7 @@ TextureImporter:
         y: 320
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_246
@@ -3202,7 +3194,7 @@ TextureImporter:
         y: 320
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_247
@@ -3212,7 +3204,7 @@ TextureImporter:
         y: 320
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_248
@@ -3222,7 +3214,7 @@ TextureImporter:
         y: 320
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_249
@@ -3232,7 +3224,7 @@ TextureImporter:
         y: 320
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_250
@@ -3242,7 +3234,7 @@ TextureImporter:
         y: 320
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_251
@@ -3252,7 +3244,7 @@ TextureImporter:
         y: 320
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_252
@@ -3262,7 +3254,7 @@ TextureImporter:
         y: 320
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_253
@@ -3272,7 +3264,7 @@ TextureImporter:
         y: 320
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_254
@@ -3282,7 +3274,7 @@ TextureImporter:
         y: 320
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_255
@@ -3292,7 +3284,7 @@ TextureImporter:
         y: 320
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_256
@@ -3302,7 +3294,7 @@ TextureImporter:
         y: 320
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_257
@@ -3312,7 +3304,7 @@ TextureImporter:
         y: 320
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_258
@@ -3322,7 +3314,7 @@ TextureImporter:
         y: 320
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_259
@@ -3332,7 +3324,7 @@ TextureImporter:
         y: 304
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_260
@@ -3342,7 +3334,7 @@ TextureImporter:
         y: 304
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_261
@@ -3352,7 +3344,7 @@ TextureImporter:
         y: 304
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_262
@@ -3362,7 +3354,7 @@ TextureImporter:
         y: 304
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_263
@@ -3372,7 +3364,7 @@ TextureImporter:
         y: 304
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_264
@@ -3382,7 +3374,7 @@ TextureImporter:
         y: 304
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_265
@@ -3392,7 +3384,7 @@ TextureImporter:
         y: 304
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_266
@@ -3402,7 +3394,7 @@ TextureImporter:
         y: 304
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_267
@@ -3412,7 +3404,7 @@ TextureImporter:
         y: 304
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_268
@@ -3422,7 +3414,7 @@ TextureImporter:
         y: 304
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_269
@@ -3432,7 +3424,7 @@ TextureImporter:
         y: 304
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_270
@@ -3442,7 +3434,7 @@ TextureImporter:
         y: 304
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_271
@@ -3452,7 +3444,7 @@ TextureImporter:
         y: 304
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_272
@@ -3462,7 +3454,7 @@ TextureImporter:
         y: 304
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_273
@@ -3472,7 +3464,7 @@ TextureImporter:
         y: 304
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_274
@@ -3482,7 +3474,7 @@ TextureImporter:
         y: 304
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_275
@@ -3492,7 +3484,7 @@ TextureImporter:
         y: 304
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_276
@@ -3502,7 +3494,7 @@ TextureImporter:
         y: 304
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_277
@@ -3512,7 +3504,7 @@ TextureImporter:
         y: 304
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_278
@@ -3522,7 +3514,7 @@ TextureImporter:
         y: 304
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_279
@@ -3532,7 +3524,7 @@ TextureImporter:
         y: 304
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_280
@@ -3542,7 +3534,7 @@ TextureImporter:
         y: 304
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_281
@@ -3552,7 +3544,7 @@ TextureImporter:
         y: 304
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_282
@@ -3562,7 +3554,7 @@ TextureImporter:
         y: 304
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_283
@@ -3572,7 +3564,7 @@ TextureImporter:
         y: 304
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_284
@@ -3582,7 +3574,7 @@ TextureImporter:
         y: 304
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_285
@@ -3592,7 +3584,7 @@ TextureImporter:
         y: 304
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_286
@@ -3602,7 +3594,7 @@ TextureImporter:
         y: 304
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_287
@@ -3612,7 +3604,7 @@ TextureImporter:
         y: 304
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_288
@@ -3622,7 +3614,7 @@ TextureImporter:
         y: 304
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_289
@@ -3632,7 +3624,7 @@ TextureImporter:
         y: 304
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_290
@@ -3642,7 +3634,7 @@ TextureImporter:
         y: 304
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_291
@@ -3652,7 +3644,7 @@ TextureImporter:
         y: 304
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_292
@@ -3662,7 +3654,7 @@ TextureImporter:
         y: 288
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_293
@@ -3672,7 +3664,7 @@ TextureImporter:
         y: 288
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_294
@@ -3682,7 +3674,7 @@ TextureImporter:
         y: 288
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_295
@@ -3692,7 +3684,7 @@ TextureImporter:
         y: 288
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_296
@@ -3702,7 +3694,7 @@ TextureImporter:
         y: 288
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_297
@@ -3712,7 +3704,7 @@ TextureImporter:
         y: 288
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_298
@@ -3722,7 +3714,7 @@ TextureImporter:
         y: 288
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_299
@@ -3732,7 +3724,7 @@ TextureImporter:
         y: 288
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_300
@@ -3742,7 +3734,7 @@ TextureImporter:
         y: 288
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_301
@@ -3752,7 +3744,7 @@ TextureImporter:
         y: 288
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_302
@@ -3762,7 +3754,7 @@ TextureImporter:
         y: 288
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_303
@@ -3772,7 +3764,7 @@ TextureImporter:
         y: 288
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_304
@@ -3782,7 +3774,7 @@ TextureImporter:
         y: 288
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_305
@@ -3792,7 +3784,7 @@ TextureImporter:
         y: 288
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_306
@@ -3802,7 +3794,7 @@ TextureImporter:
         y: 288
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_307
@@ -3812,7 +3804,7 @@ TextureImporter:
         y: 288
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_308
@@ -3822,7 +3814,7 @@ TextureImporter:
         y: 288
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_309
@@ -3832,7 +3824,7 @@ TextureImporter:
         y: 288
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_310
@@ -3842,7 +3834,7 @@ TextureImporter:
         y: 288
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_311
@@ -3852,7 +3844,7 @@ TextureImporter:
         y: 288
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_312
@@ -3862,7 +3854,7 @@ TextureImporter:
         y: 288
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_313
@@ -3872,7 +3864,7 @@ TextureImporter:
         y: 288
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_314
@@ -3882,7 +3874,7 @@ TextureImporter:
         y: 288
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_315
@@ -3892,7 +3884,7 @@ TextureImporter:
         y: 288
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_316
@@ -3902,7 +3894,7 @@ TextureImporter:
         y: 288
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_317
@@ -3912,7 +3904,7 @@ TextureImporter:
         y: 288
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_318
@@ -3922,7 +3914,7 @@ TextureImporter:
         y: 272
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_319
@@ -3932,7 +3924,7 @@ TextureImporter:
         y: 272
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_320
@@ -3942,7 +3934,7 @@ TextureImporter:
         y: 272
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_321
@@ -3952,7 +3944,7 @@ TextureImporter:
         y: 272
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_322
@@ -3962,7 +3954,7 @@ TextureImporter:
         y: 272
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_323
@@ -3972,7 +3964,7 @@ TextureImporter:
         y: 272
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_324
@@ -3982,7 +3974,7 @@ TextureImporter:
         y: 272
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_325
@@ -3992,7 +3984,7 @@ TextureImporter:
         y: 272
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_326
@@ -4002,7 +3994,7 @@ TextureImporter:
         y: 272
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_327
@@ -4012,7 +4004,7 @@ TextureImporter:
         y: 272
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_328
@@ -4022,7 +4014,7 @@ TextureImporter:
         y: 272
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_329
@@ -4032,7 +4024,7 @@ TextureImporter:
         y: 272
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_330
@@ -4042,7 +4034,7 @@ TextureImporter:
         y: 272
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_331
@@ -4052,7 +4044,7 @@ TextureImporter:
         y: 272
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_332
@@ -4062,7 +4054,7 @@ TextureImporter:
         y: 272
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_333
@@ -4072,7 +4064,7 @@ TextureImporter:
         y: 272
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_334
@@ -4082,7 +4074,7 @@ TextureImporter:
         y: 272
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_335
@@ -4092,7 +4084,7 @@ TextureImporter:
         y: 272
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_336
@@ -4102,7 +4094,7 @@ TextureImporter:
         y: 272
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_337
@@ -4112,7 +4104,7 @@ TextureImporter:
         y: 272
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_338
@@ -4122,7 +4114,7 @@ TextureImporter:
         y: 272
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_339
@@ -4132,7 +4124,7 @@ TextureImporter:
         y: 272
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_340
@@ -4142,7 +4134,7 @@ TextureImporter:
         y: 272
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_341
@@ -4152,7 +4144,7 @@ TextureImporter:
         y: 272
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_342
@@ -4162,7 +4154,7 @@ TextureImporter:
         y: 272
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_343
@@ -4172,7 +4164,7 @@ TextureImporter:
         y: 272
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_344
@@ -4182,7 +4174,7 @@ TextureImporter:
         y: 256
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_345
@@ -4192,7 +4184,7 @@ TextureImporter:
         y: 256
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_346
@@ -4202,7 +4194,7 @@ TextureImporter:
         y: 256
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_347
@@ -4212,7 +4204,7 @@ TextureImporter:
         y: 256
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_348
@@ -4222,7 +4214,7 @@ TextureImporter:
         y: 256
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_349
@@ -4232,7 +4224,7 @@ TextureImporter:
         y: 256
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_350
@@ -4242,7 +4234,7 @@ TextureImporter:
         y: 256
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_351
@@ -4252,7 +4244,7 @@ TextureImporter:
         y: 256
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_352
@@ -4262,7 +4254,7 @@ TextureImporter:
         y: 256
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_353
@@ -4272,7 +4264,7 @@ TextureImporter:
         y: 256
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_354
@@ -4282,7 +4274,7 @@ TextureImporter:
         y: 256
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_355
@@ -4292,7 +4284,7 @@ TextureImporter:
         y: 256
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_356
@@ -4302,7 +4294,7 @@ TextureImporter:
         y: 256
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_357
@@ -4312,7 +4304,7 @@ TextureImporter:
         y: 256
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_358
@@ -4322,7 +4314,7 @@ TextureImporter:
         y: 256
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_359
@@ -4332,7 +4324,7 @@ TextureImporter:
         y: 256
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_360
@@ -4342,7 +4334,7 @@ TextureImporter:
         y: 256
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_361
@@ -4352,7 +4344,7 @@ TextureImporter:
         y: 256
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_362
@@ -4362,7 +4354,7 @@ TextureImporter:
         y: 256
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_363
@@ -4372,7 +4364,7 @@ TextureImporter:
         y: 256
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_364
@@ -4382,7 +4374,7 @@ TextureImporter:
         y: 256
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_365
@@ -4392,7 +4384,7 @@ TextureImporter:
         y: 256
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_366
@@ -4402,7 +4394,7 @@ TextureImporter:
         y: 256
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_367
@@ -4412,7 +4404,7 @@ TextureImporter:
         y: 256
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_368
@@ -4422,7 +4414,7 @@ TextureImporter:
         y: 256
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_369
@@ -4432,7 +4424,7 @@ TextureImporter:
         y: 256
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_370
@@ -4442,7 +4434,7 @@ TextureImporter:
         y: 240
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_371
@@ -4452,7 +4444,7 @@ TextureImporter:
         y: 240
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_372
@@ -4462,7 +4454,7 @@ TextureImporter:
         y: 240
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_373
@@ -4472,7 +4464,7 @@ TextureImporter:
         y: 240
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_374
@@ -4482,7 +4474,7 @@ TextureImporter:
         y: 240
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_375
@@ -4492,7 +4484,7 @@ TextureImporter:
         y: 240
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_376
@@ -4502,7 +4494,7 @@ TextureImporter:
         y: 240
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_377
@@ -4512,7 +4504,7 @@ TextureImporter:
         y: 240
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_378
@@ -4522,7 +4514,7 @@ TextureImporter:
         y: 240
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_379
@@ -4532,7 +4524,7 @@ TextureImporter:
         y: 240
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_380
@@ -4542,7 +4534,7 @@ TextureImporter:
         y: 240
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_381
@@ -4552,7 +4544,7 @@ TextureImporter:
         y: 240
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_382
@@ -4562,7 +4554,7 @@ TextureImporter:
         y: 240
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_383
@@ -4572,7 +4564,7 @@ TextureImporter:
         y: 240
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_384
@@ -4582,7 +4574,7 @@ TextureImporter:
         y: 240
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_385
@@ -4592,7 +4584,7 @@ TextureImporter:
         y: 240
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_386
@@ -4602,7 +4594,7 @@ TextureImporter:
         y: 240
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_387
@@ -4612,7 +4604,7 @@ TextureImporter:
         y: 240
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_388
@@ -4622,7 +4614,7 @@ TextureImporter:
         y: 240
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_389
@@ -4632,7 +4624,7 @@ TextureImporter:
         y: 240
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_390
@@ -4642,7 +4634,7 @@ TextureImporter:
         y: 240
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_391
@@ -4652,7 +4644,7 @@ TextureImporter:
         y: 240
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_392
@@ -4662,7 +4654,7 @@ TextureImporter:
         y: 240
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_393
@@ -4672,7 +4664,7 @@ TextureImporter:
         y: 240
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_394
@@ -4682,7 +4674,7 @@ TextureImporter:
         y: 240
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_395
@@ -4692,7 +4684,7 @@ TextureImporter:
         y: 240
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_396
@@ -4702,7 +4694,7 @@ TextureImporter:
         y: 224
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_397
@@ -4712,7 +4704,7 @@ TextureImporter:
         y: 224
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_398
@@ -4722,7 +4714,7 @@ TextureImporter:
         y: 224
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_399
@@ -4732,7 +4724,7 @@ TextureImporter:
         y: 224
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_400
@@ -4742,7 +4734,7 @@ TextureImporter:
         y: 224
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_401
@@ -4752,7 +4744,7 @@ TextureImporter:
         y: 224
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_402
@@ -4762,7 +4754,7 @@ TextureImporter:
         y: 224
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_403
@@ -4772,7 +4764,7 @@ TextureImporter:
         y: 224
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_404
@@ -4782,7 +4774,7 @@ TextureImporter:
         y: 224
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_405
@@ -4792,7 +4784,7 @@ TextureImporter:
         y: 224
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_406
@@ -4802,7 +4794,7 @@ TextureImporter:
         y: 224
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_407
@@ -4812,7 +4804,7 @@ TextureImporter:
         y: 224
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_408
@@ -4822,7 +4814,7 @@ TextureImporter:
         y: 224
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_409
@@ -4832,7 +4824,7 @@ TextureImporter:
         y: 224
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_410
@@ -4842,7 +4834,7 @@ TextureImporter:
         y: 224
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_411
@@ -4852,7 +4844,7 @@ TextureImporter:
         y: 224
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_412
@@ -4862,7 +4854,7 @@ TextureImporter:
         y: 224
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_413
@@ -4872,7 +4864,7 @@ TextureImporter:
         y: 224
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_414
@@ -4882,7 +4874,7 @@ TextureImporter:
         y: 224
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_415
@@ -4892,7 +4884,7 @@ TextureImporter:
         y: 224
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_416
@@ -4902,7 +4894,7 @@ TextureImporter:
         y: 224
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_417
@@ -4912,7 +4904,7 @@ TextureImporter:
         y: 224
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_418
@@ -4922,7 +4914,7 @@ TextureImporter:
         y: 224
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_419
@@ -4932,7 +4924,7 @@ TextureImporter:
         y: 224
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_420
@@ -4942,7 +4934,7 @@ TextureImporter:
         y: 224
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_421
@@ -4952,7 +4944,7 @@ TextureImporter:
         y: 224
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_422
@@ -4962,7 +4954,7 @@ TextureImporter:
         y: 208
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_423
@@ -4972,7 +4964,7 @@ TextureImporter:
         y: 208
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_424
@@ -4982,7 +4974,7 @@ TextureImporter:
         y: 208
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_425
@@ -4992,7 +4984,7 @@ TextureImporter:
         y: 208
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_426
@@ -5002,7 +4994,7 @@ TextureImporter:
         y: 208
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_427
@@ -5012,7 +5004,7 @@ TextureImporter:
         y: 208
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_428
@@ -5022,7 +5014,7 @@ TextureImporter:
         y: 208
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_429
@@ -5032,7 +5024,7 @@ TextureImporter:
         y: 208
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_430
@@ -5042,7 +5034,7 @@ TextureImporter:
         y: 208
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_431
@@ -5052,7 +5044,7 @@ TextureImporter:
         y: 208
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_432
@@ -5062,7 +5054,7 @@ TextureImporter:
         y: 208
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_433
@@ -5072,7 +5064,7 @@ TextureImporter:
         y: 208
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_434
@@ -5082,7 +5074,7 @@ TextureImporter:
         y: 208
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_435
@@ -5092,7 +5084,7 @@ TextureImporter:
         y: 208
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_436
@@ -5102,7 +5094,7 @@ TextureImporter:
         y: 208
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_437
@@ -5112,7 +5104,7 @@ TextureImporter:
         y: 208
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_438
@@ -5122,7 +5114,7 @@ TextureImporter:
         y: 208
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_439
@@ -5132,7 +5124,7 @@ TextureImporter:
         y: 208
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_440
@@ -5142,7 +5134,7 @@ TextureImporter:
         y: 208
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_441
@@ -5152,7 +5144,7 @@ TextureImporter:
         y: 208
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_442
@@ -5162,7 +5154,7 @@ TextureImporter:
         y: 208
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_443
@@ -5172,7 +5164,7 @@ TextureImporter:
         y: 208
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_444
@@ -5182,7 +5174,7 @@ TextureImporter:
         y: 208
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_445
@@ -5192,7 +5184,7 @@ TextureImporter:
         y: 208
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_446
@@ -5202,7 +5194,7 @@ TextureImporter:
         y: 208
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_447
@@ -5212,7 +5204,7 @@ TextureImporter:
         y: 208
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_448
@@ -5222,7 +5214,7 @@ TextureImporter:
         y: 192
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_449
@@ -5232,7 +5224,7 @@ TextureImporter:
         y: 192
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_450
@@ -5242,7 +5234,7 @@ TextureImporter:
         y: 192
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_451
@@ -5252,7 +5244,7 @@ TextureImporter:
         y: 192
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_452
@@ -5262,7 +5254,7 @@ TextureImporter:
         y: 192
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_453
@@ -5272,7 +5264,7 @@ TextureImporter:
         y: 192
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_454
@@ -5282,7 +5274,7 @@ TextureImporter:
         y: 192
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_455
@@ -5292,7 +5284,7 @@ TextureImporter:
         y: 192
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_456
@@ -5302,7 +5294,7 @@ TextureImporter:
         y: 192
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_457
@@ -5312,7 +5304,7 @@ TextureImporter:
         y: 192
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_458
@@ -5322,7 +5314,7 @@ TextureImporter:
         y: 192
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_459
@@ -5332,7 +5324,7 @@ TextureImporter:
         y: 192
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_460
@@ -5342,7 +5334,7 @@ TextureImporter:
         y: 192
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_461
@@ -5352,7 +5344,7 @@ TextureImporter:
         y: 192
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_462
@@ -5362,7 +5354,7 @@ TextureImporter:
         y: 192
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_463
@@ -5372,7 +5364,7 @@ TextureImporter:
         y: 192
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_464
@@ -5382,7 +5374,7 @@ TextureImporter:
         y: 192
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_465
@@ -5392,7 +5384,7 @@ TextureImporter:
         y: 192
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_466
@@ -5402,7 +5394,7 @@ TextureImporter:
         y: 192
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_467
@@ -5412,7 +5404,7 @@ TextureImporter:
         y: 192
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_468
@@ -5422,7 +5414,7 @@ TextureImporter:
         y: 192
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_469
@@ -5432,7 +5424,7 @@ TextureImporter:
         y: 192
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_470
@@ -5442,7 +5434,7 @@ TextureImporter:
         y: 192
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_471
@@ -5452,7 +5444,7 @@ TextureImporter:
         y: 192
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_472
@@ -5462,7 +5454,7 @@ TextureImporter:
         y: 192
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_473
@@ -5472,7 +5464,7 @@ TextureImporter:
         y: 192
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_474
@@ -5482,7 +5474,7 @@ TextureImporter:
         y: 176
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_475
@@ -5492,7 +5484,7 @@ TextureImporter:
         y: 176
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_476
@@ -5502,7 +5494,7 @@ TextureImporter:
         y: 176
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_477
@@ -5512,7 +5504,7 @@ TextureImporter:
         y: 176
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_478
@@ -5522,7 +5514,7 @@ TextureImporter:
         y: 176
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_479
@@ -5532,7 +5524,7 @@ TextureImporter:
         y: 176
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_480
@@ -5542,7 +5534,7 @@ TextureImporter:
         y: 176
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_481
@@ -5552,7 +5544,7 @@ TextureImporter:
         y: 176
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_482
@@ -5562,7 +5554,7 @@ TextureImporter:
         y: 176
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_483
@@ -5572,7 +5564,7 @@ TextureImporter:
         y: 176
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_484
@@ -5582,7 +5574,7 @@ TextureImporter:
         y: 176
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_485
@@ -5592,7 +5584,7 @@ TextureImporter:
         y: 176
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_486
@@ -5602,7 +5594,7 @@ TextureImporter:
         y: 176
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_487
@@ -5612,7 +5604,7 @@ TextureImporter:
         y: 176
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_488
@@ -5622,7 +5614,7 @@ TextureImporter:
         y: 176
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_489
@@ -5632,7 +5624,7 @@ TextureImporter:
         y: 176
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_490
@@ -5642,7 +5634,7 @@ TextureImporter:
         y: 176
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_491
@@ -5652,7 +5644,7 @@ TextureImporter:
         y: 176
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_492
@@ -5662,7 +5654,7 @@ TextureImporter:
         y: 176
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_493
@@ -5672,7 +5664,7 @@ TextureImporter:
         y: 176
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_494
@@ -5682,7 +5674,7 @@ TextureImporter:
         y: 176
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_495
@@ -5692,7 +5684,7 @@ TextureImporter:
         y: 176
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_496
@@ -5702,7 +5694,7 @@ TextureImporter:
         y: 176
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_497
@@ -5712,7 +5704,7 @@ TextureImporter:
         y: 176
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_498
@@ -5722,7 +5714,7 @@ TextureImporter:
         y: 176
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_499
@@ -5732,7 +5724,7 @@ TextureImporter:
         y: 176
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_500
@@ -5742,7 +5734,7 @@ TextureImporter:
         y: 160
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_501
@@ -5752,7 +5744,7 @@ TextureImporter:
         y: 160
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_502
@@ -5762,7 +5754,7 @@ TextureImporter:
         y: 160
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_503
@@ -5772,7 +5764,7 @@ TextureImporter:
         y: 160
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_504
@@ -5782,7 +5774,7 @@ TextureImporter:
         y: 160
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_505
@@ -5792,7 +5784,7 @@ TextureImporter:
         y: 160
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_506
@@ -5802,7 +5794,7 @@ TextureImporter:
         y: 160
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_507
@@ -5812,7 +5804,7 @@ TextureImporter:
         y: 160
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_508
@@ -5822,7 +5814,7 @@ TextureImporter:
         y: 160
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_509
@@ -5832,7 +5824,7 @@ TextureImporter:
         y: 160
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_510
@@ -5842,7 +5834,7 @@ TextureImporter:
         y: 160
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_511
@@ -5852,7 +5844,7 @@ TextureImporter:
         y: 160
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_512
@@ -5862,7 +5854,7 @@ TextureImporter:
         y: 160
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_513
@@ -5872,7 +5864,7 @@ TextureImporter:
         y: 160
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_514
@@ -5882,7 +5874,7 @@ TextureImporter:
         y: 160
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_515
@@ -5892,7 +5884,7 @@ TextureImporter:
         y: 160
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_516
@@ -5902,7 +5894,7 @@ TextureImporter:
         y: 160
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_517
@@ -5912,7 +5904,7 @@ TextureImporter:
         y: 160
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_518
@@ -5922,7 +5914,7 @@ TextureImporter:
         y: 160
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_519
@@ -5932,7 +5924,7 @@ TextureImporter:
         y: 160
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_520
@@ -5942,7 +5934,7 @@ TextureImporter:
         y: 160
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_521
@@ -5952,7 +5944,7 @@ TextureImporter:
         y: 160
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_522
@@ -5962,7 +5954,7 @@ TextureImporter:
         y: 160
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_523
@@ -5972,7 +5964,7 @@ TextureImporter:
         y: 160
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_524
@@ -5982,7 +5974,7 @@ TextureImporter:
         y: 160
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_525
@@ -5992,7 +5984,7 @@ TextureImporter:
         y: 160
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_526
@@ -6002,7 +5994,7 @@ TextureImporter:
         y: 144
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_527
@@ -6012,7 +6004,7 @@ TextureImporter:
         y: 144
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_528
@@ -6022,7 +6014,7 @@ TextureImporter:
         y: 144
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_529
@@ -6032,7 +6024,7 @@ TextureImporter:
         y: 144
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_530
@@ -6042,7 +6034,7 @@ TextureImporter:
         y: 144
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_531
@@ -6052,7 +6044,7 @@ TextureImporter:
         y: 144
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_532
@@ -6062,7 +6054,7 @@ TextureImporter:
         y: 144
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_533
@@ -6072,7 +6064,7 @@ TextureImporter:
         y: 144
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_534
@@ -6082,7 +6074,7 @@ TextureImporter:
         y: 144
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_535
@@ -6092,7 +6084,7 @@ TextureImporter:
         y: 144
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_536
@@ -6102,7 +6094,7 @@ TextureImporter:
         y: 144
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_537
@@ -6112,7 +6104,7 @@ TextureImporter:
         y: 144
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_538
@@ -6122,7 +6114,7 @@ TextureImporter:
         y: 144
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_539
@@ -6132,7 +6124,7 @@ TextureImporter:
         y: 144
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_540
@@ -6142,7 +6134,7 @@ TextureImporter:
         y: 144
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_541
@@ -6152,7 +6144,7 @@ TextureImporter:
         y: 144
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_542
@@ -6162,7 +6154,7 @@ TextureImporter:
         y: 144
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_543
@@ -6172,7 +6164,7 @@ TextureImporter:
         y: 144
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_544
@@ -6182,7 +6174,7 @@ TextureImporter:
         y: 144
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_545
@@ -6192,7 +6184,7 @@ TextureImporter:
         y: 144
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_546
@@ -6202,7 +6194,7 @@ TextureImporter:
         y: 144
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_547
@@ -6212,7 +6204,7 @@ TextureImporter:
         y: 144
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_548
@@ -6222,7 +6214,7 @@ TextureImporter:
         y: 144
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_549
@@ -6232,7 +6224,7 @@ TextureImporter:
         y: 144
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_550
@@ -6242,7 +6234,7 @@ TextureImporter:
         y: 144
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_551
@@ -6252,7 +6244,7 @@ TextureImporter:
         y: 144
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_552
@@ -6262,7 +6254,7 @@ TextureImporter:
         y: 128
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_553
@@ -6272,7 +6264,7 @@ TextureImporter:
         y: 128
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_554
@@ -6282,7 +6274,7 @@ TextureImporter:
         y: 128
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_555
@@ -6292,7 +6284,7 @@ TextureImporter:
         y: 128
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_556
@@ -6302,7 +6294,7 @@ TextureImporter:
         y: 128
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_557
@@ -6312,7 +6304,7 @@ TextureImporter:
         y: 128
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_558
@@ -6322,7 +6314,7 @@ TextureImporter:
         y: 128
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_559
@@ -6332,7 +6324,7 @@ TextureImporter:
         y: 128
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_560
@@ -6342,7 +6334,7 @@ TextureImporter:
         y: 128
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_561
@@ -6352,7 +6344,7 @@ TextureImporter:
         y: 128
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_562
@@ -6362,7 +6354,7 @@ TextureImporter:
         y: 128
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_563
@@ -6372,7 +6364,7 @@ TextureImporter:
         y: 128
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_564
@@ -6382,7 +6374,7 @@ TextureImporter:
         y: 128
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_565
@@ -6392,7 +6384,7 @@ TextureImporter:
         y: 128
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_566
@@ -6402,7 +6394,7 @@ TextureImporter:
         y: 128
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_567
@@ -6412,7 +6404,7 @@ TextureImporter:
         y: 128
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_568
@@ -6422,7 +6414,7 @@ TextureImporter:
         y: 128
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_569
@@ -6432,7 +6424,7 @@ TextureImporter:
         y: 128
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_570
@@ -6442,7 +6434,7 @@ TextureImporter:
         y: 128
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_571
@@ -6452,7 +6444,7 @@ TextureImporter:
         y: 128
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_572
@@ -6462,7 +6454,7 @@ TextureImporter:
         y: 128
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_573
@@ -6472,7 +6464,7 @@ TextureImporter:
         y: 128
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_574
@@ -6482,7 +6474,7 @@ TextureImporter:
         y: 128
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_575
@@ -6492,7 +6484,7 @@ TextureImporter:
         y: 128
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_576
@@ -6502,7 +6494,7 @@ TextureImporter:
         y: 128
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_577
@@ -6512,7 +6504,7 @@ TextureImporter:
         y: 128
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_578
@@ -6522,7 +6514,7 @@ TextureImporter:
         y: 112
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_579
@@ -6532,7 +6524,7 @@ TextureImporter:
         y: 112
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_580
@@ -6542,7 +6534,7 @@ TextureImporter:
         y: 112
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_581
@@ -6552,7 +6544,7 @@ TextureImporter:
         y: 112
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_582
@@ -6562,7 +6554,7 @@ TextureImporter:
         y: 112
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_583
@@ -6572,7 +6564,7 @@ TextureImporter:
         y: 112
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_584
@@ -6582,7 +6574,7 @@ TextureImporter:
         y: 112
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_585
@@ -6592,7 +6584,7 @@ TextureImporter:
         y: 112
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_586
@@ -6602,7 +6594,7 @@ TextureImporter:
         y: 112
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_587
@@ -6612,7 +6604,7 @@ TextureImporter:
         y: 112
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_588
@@ -6622,7 +6614,7 @@ TextureImporter:
         y: 112
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_589
@@ -6632,7 +6624,7 @@ TextureImporter:
         y: 112
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_590
@@ -6642,7 +6634,7 @@ TextureImporter:
         y: 112
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_591
@@ -6652,7 +6644,7 @@ TextureImporter:
         y: 112
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_592
@@ -6662,7 +6654,7 @@ TextureImporter:
         y: 112
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_593
@@ -6672,7 +6664,7 @@ TextureImporter:
         y: 112
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_594
@@ -6682,7 +6674,7 @@ TextureImporter:
         y: 112
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_595
@@ -6692,7 +6684,7 @@ TextureImporter:
         y: 112
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_596
@@ -6702,7 +6694,7 @@ TextureImporter:
         y: 112
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_597
@@ -6712,7 +6704,7 @@ TextureImporter:
         y: 112
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_598
@@ -6722,7 +6714,7 @@ TextureImporter:
         y: 112
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_599
@@ -6732,7 +6724,7 @@ TextureImporter:
         y: 112
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_600
@@ -6742,7 +6734,7 @@ TextureImporter:
         y: 112
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_601
@@ -6752,7 +6744,7 @@ TextureImporter:
         y: 96
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_602
@@ -6762,7 +6754,7 @@ TextureImporter:
         y: 96
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_603
@@ -6772,7 +6764,7 @@ TextureImporter:
         y: 96
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_604
@@ -6782,7 +6774,7 @@ TextureImporter:
         y: 96
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_605
@@ -6792,7 +6784,7 @@ TextureImporter:
         y: 96
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_606
@@ -6802,7 +6794,7 @@ TextureImporter:
         y: 96
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_607
@@ -6812,7 +6804,7 @@ TextureImporter:
         y: 96
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_608
@@ -6822,7 +6814,7 @@ TextureImporter:
         y: 96
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_609
@@ -6832,7 +6824,7 @@ TextureImporter:
         y: 96
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_610
@@ -6842,7 +6834,7 @@ TextureImporter:
         y: 96
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_611
@@ -6852,7 +6844,7 @@ TextureImporter:
         y: 96
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_612
@@ -6862,7 +6854,7 @@ TextureImporter:
         y: 80
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_613
@@ -6872,7 +6864,7 @@ TextureImporter:
         y: 80
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_614
@@ -6882,7 +6874,7 @@ TextureImporter:
         y: 80
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_615
@@ -6892,7 +6884,7 @@ TextureImporter:
         y: 80
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_616
@@ -6902,7 +6894,7 @@ TextureImporter:
         y: 80
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_617
@@ -6912,7 +6904,7 @@ TextureImporter:
         y: 80
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_618
@@ -6922,7 +6914,7 @@ TextureImporter:
         y: 80
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_619
@@ -6932,7 +6924,7 @@ TextureImporter:
         y: 80
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_620
@@ -6942,7 +6934,7 @@ TextureImporter:
         y: 80
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_621
@@ -6952,7 +6944,7 @@ TextureImporter:
         y: 80
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_622
@@ -6962,7 +6954,7 @@ TextureImporter:
         y: 80
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_623
@@ -6972,7 +6964,7 @@ TextureImporter:
         y: 64
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_624
@@ -6982,7 +6974,7 @@ TextureImporter:
         y: 64
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_625
@@ -6992,7 +6984,7 @@ TextureImporter:
         y: 64
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_626
@@ -7002,7 +6994,7 @@ TextureImporter:
         y: 64
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_627
@@ -7012,7 +7004,7 @@ TextureImporter:
         y: 64
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_628
@@ -7022,7 +7014,7 @@ TextureImporter:
         y: 64
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_629
@@ -7032,7 +7024,7 @@ TextureImporter:
         y: 64
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_630
@@ -7042,7 +7034,7 @@ TextureImporter:
         y: 64
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_631
@@ -7052,7 +7044,7 @@ TextureImporter:
         y: 64
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_632
@@ -7062,7 +7054,7 @@ TextureImporter:
         y: 64
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_633
@@ -7072,7 +7064,7 @@ TextureImporter:
         y: 64
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_634
@@ -7082,7 +7074,7 @@ TextureImporter:
         y: 48
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_635
@@ -7092,7 +7084,7 @@ TextureImporter:
         y: 48
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_636
@@ -7102,7 +7094,7 @@ TextureImporter:
         y: 48
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_637
@@ -7112,7 +7104,7 @@ TextureImporter:
         y: 48
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_638
@@ -7122,7 +7114,7 @@ TextureImporter:
         y: 48
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_639
@@ -7132,7 +7124,7 @@ TextureImporter:
         y: 48
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_640
@@ -7142,7 +7134,7 @@ TextureImporter:
         y: 48
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_641
@@ -7152,7 +7144,7 @@ TextureImporter:
         y: 48
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_642
@@ -7162,7 +7154,7 @@ TextureImporter:
         y: 48
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_643
@@ -7172,7 +7164,7 @@ TextureImporter:
         y: 48
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_644
@@ -7182,7 +7174,7 @@ TextureImporter:
         y: 48
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_645
@@ -7192,7 +7184,7 @@ TextureImporter:
         y: 32
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_646
@@ -7202,7 +7194,7 @@ TextureImporter:
         y: 32
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_647
@@ -7212,7 +7204,7 @@ TextureImporter:
         y: 32
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_648
@@ -7222,7 +7214,7 @@ TextureImporter:
         y: 32
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_649
@@ -7232,7 +7224,7 @@ TextureImporter:
         y: 32
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_650
@@ -7242,7 +7234,7 @@ TextureImporter:
         y: 32
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_651
@@ -7252,7 +7244,7 @@ TextureImporter:
         y: 32
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_652
@@ -7262,7 +7254,7 @@ TextureImporter:
         y: 32
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_653
@@ -7272,7 +7264,7 @@ TextureImporter:
         y: 32
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_654
@@ -7282,7 +7274,7 @@ TextureImporter:
         y: 32
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_655
@@ -7292,7 +7284,7 @@ TextureImporter:
         y: 32
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_656
@@ -7302,7 +7294,7 @@ TextureImporter:
         y: 16
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_657
@@ -7312,7 +7304,7 @@ TextureImporter:
         y: 16
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_658
@@ -7322,7 +7314,7 @@ TextureImporter:
         y: 16
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_659
@@ -7332,7 +7324,7 @@ TextureImporter:
         y: 16
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_660
@@ -7342,7 +7334,7 @@ TextureImporter:
         y: 16
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_661
@@ -7352,7 +7344,7 @@ TextureImporter:
         y: 16
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_662
@@ -7362,7 +7354,7 @@ TextureImporter:
         y: 16
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_663
@@ -7372,7 +7364,7 @@ TextureImporter:
         y: 16
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_664
@@ -7382,7 +7374,7 @@ TextureImporter:
         y: 16
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_665
@@ -7392,7 +7384,7 @@ TextureImporter:
         y: 16
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_666
@@ -7402,7 +7394,7 @@ TextureImporter:
         y: 16
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_667
@@ -7412,7 +7404,7 @@ TextureImporter:
         y: 0
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_668
@@ -7422,7 +7414,7 @@ TextureImporter:
         y: 0
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_669
@@ -7432,7 +7424,7 @@ TextureImporter:
         y: 0
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_670
@@ -7442,7 +7434,7 @@ TextureImporter:
         y: 0
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_671
@@ -7452,7 +7444,7 @@ TextureImporter:
         y: 0
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_672
@@ -7462,7 +7454,7 @@ TextureImporter:
         y: 0
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_673
@@ -7472,7 +7464,7 @@ TextureImporter:
         y: 0
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_674
@@ -7482,7 +7474,7 @@ TextureImporter:
         y: 0
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_675
@@ -7492,7 +7484,7 @@ TextureImporter:
         y: 0
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_676
@@ -7502,7 +7494,7 @@ TextureImporter:
         y: 0
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: NES - Super Mario Bros - Tile Set 1_677
@@ -7512,7 +7504,7 @@ TextureImporter:
         y: 0
         width: 16
         height: 16
-      alignment: 6
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
