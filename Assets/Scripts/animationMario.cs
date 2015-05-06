@@ -8,15 +8,24 @@ public class animationMario : MonoBehaviour {
 
 	private bool isGrounded;
 	private bool isBig;
-	private bool isDead;
+	public bool isDead;
 	private bool bIsPressed;
 	private bool isOnPole;
 	private bool isFire;
+	public float maxSpeed = 1f;
 
 
+	private bool grounded = false;			// Whether or not the player is grounded.
+	public float JumpSpeed = 4f;		// Amount of force added when the player jumps.
+	private Transform groundCheck;	
+	private Transform groundCheck2;
+
+	public Vector2 startPosition;
 	void Start () 
     {
+		startPosition=GetComponent<Rigidbody2D> ().position;
 		animator = GetComponent<Animator> ();
+		transform.Find("big").GetComponent<PolygonCollider2D>().isTrigger=true;
 	}
 
 	private void UpdateAnimator(){
@@ -29,26 +38,87 @@ public class animationMario : MonoBehaviour {
 		animator.SetBool ("isFire", isFire);
 		
 		animator.SetFloat ("verticalAxis", Input.GetAxis ("Vertical"));
-		animator.SetFloat ("horizontalAxis", Input.GetAxis ("Horizontal"));
 
+		animator.SetFloat ("horizontalAxis", Input.GetAxis ("Horizontal"));
 		//Eksempel for hvordan kalle på trigger.
 		if (Input.GetKeyDown(KeyCode.Q)) 
 		{
 			isBig = !isBig;
 			animator.SetTrigger("changeSize");
+			transform.Find("big").GetComponent<PolygonCollider2D>().isTrigger=!isBig;
+			
 		}
 	}
-
+	void Awake()
+	{
+		// Setting up references.
+		groundCheck = transform.Find("groundCheck");
+		groundCheck2 = transform.Find("groundCheck2");
+	}
 	    
 	void Update () 
     {
+		/*if(Input.GetAxis ("Horizontal")<-0.2||Input.GetAxis ("Horizontal")>0.2){
+			
+			bIsPressed=true;
+		}else{
+			bIsPressed=false;
+		}
+		if (GetComponent<Rigidbody2D> ().velocity.x>0.5&&GetComponent<Rigidbody2D> ().velocity.x<-0.5&&Input.GetAxis ("Vertical")<0.9) {
+			bIsPressed=false;
+		}
+		*/
+
+		//isGrounded = Physics2D.Linecast(groundCheck.position, new Vector2(groundCheck.position.x,(float)(groundCheck.position.y-0.01))); 
+		isGrounded = Physics2D.Linecast(groundCheck.position, groundCheck2.position);
+
+		//isGrounded
+		if (Input.GetButton("Jump"))
+		{
+			if (isGrounded&&(GetComponent<Rigidbody2D> ().velocity.y<0.01&&GetComponent<Rigidbody2D> ().velocity.y>-0.01))
+			{
+				//print("isGrounded");
+				GetComponent<Rigidbody2D>().AddForce(Vector2.up * JumpSpeed, ForceMode2D.Impulse);
+				isGrounded = false;
+			}
+		}
+
+		float h = Input.GetAxis ("Horizontal");
+
+
+		//anim.SetFloat ("Speed", Mathf.Abs (h));
+		/*
+		if(h * GetComponent<Rigidbody2D>().velocity.x < maxSpeed)
+			GetComponent<Rigidbody2D>().AddForce(Vector2.right * h * moveForce);
+
+		if(Mathf.Abs(GetComponent<Rigidbody2D>().velocity.x) > maxSpeed){
+			// ... set the player's velocity to the maxSpeed in the x axis.
+			GetComponent<Rigidbody2D> ().velocity = new Vector2 (Mathf.Sign (GetComponent<Rigidbody2D> ().velocity.x) * maxSpeed, GetComponent<Rigidbody2D> ().velocity.y);
+		}
+		*/
+
+		GetComponent<Rigidbody2D> ().velocity = new Vector2 (h * maxSpeed, GetComponent<Rigidbody2D> ().velocity.y);
+
+
+
+
 		UpdateAnimator ();
-		Test (); // Q, W, E, R, T + Left Ctrl
+
+
+		if (h > 0)
+		{
+			transform.localScale = new Vector3(0.2f, 0.2f, 1);
+		}
+		else if (h < 0)
+		{
+			transform.localScale = new Vector3(-0.2f, 0.2f, 1);
+		}
+		//Test (); // Q, W, E, R, T + Left Ctrl
 	}
 
 
 	private void Test(){
-
+		/*
 		//FOR Å SJEKKE DE FORSKJELLIGE ANIMASJONENE
 		if (Input.GetKeyDown(KeyCode.W)) 
 		{
@@ -73,20 +143,34 @@ public class animationMario : MonoBehaviour {
 		{
 			bIsPressed = !bIsPressed;
 		}
-
-		if (Input.GetAxis ("Horizontal") < 0) {
-			transform.localScale = new Vector3 (-1f, transform.localScale.y, transform.localScale.z);
+		*/
+		/*if (Input.GetAxis ("Horizontal") < 0) {
+			transform.localScale = new Vector3 (-1f, transform.localScale.y*0.3f, transform.localScale.z*0.3f);
 		} else {
-			transform.localScale = new Vector3 (1f, transform.localScale.y, transform.localScale.z);
-		}
+			transform.localScale = new Vector3 (1f, transform.localScale.y*0.3f, transform.localScale.z*0.3f);
+		}*/
 
 
-		if(Input.GetKeyUp (KeyCode.T))
+		/*if(Input.GetKeyUp (KeyCode.T))
 		{
 			isFire = !isFire;
-		}
+		}*/
 
 		
 	}
-  
+	public void restart(){
+		print ("reset");
+		isDead = false;
+		GetComponent<Rigidbody2D> ().position=startPosition;
+		GetComponent<Animation>().clip.SampleAnimation(gameObject, 0);
+		//animator.StopPlayback ();
+		//animator.StartPlayback ();
+	}
+	public void resize()
+	{
+		isBig = !isBig;
+		animator.SetTrigger ("changeSize");
+		transform.Find ("big").GetComponent<PolygonCollider2D> ().isTrigger = !isBig;
+
+	}
 }
