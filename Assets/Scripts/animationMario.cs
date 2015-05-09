@@ -171,6 +171,33 @@ public class animationMario : MonoBehaviour {
 		isBig = !isBig;
 		animator.SetTrigger ("changeSize");
 		transform.Find ("big").GetComponent<PolygonCollider2D> ().isTrigger = !isBig;
+		HealthScript playerHealth = this.GetComponent<HealthScript> ();
+		if (playerHealth != null)
+			playerHealth.Damage (-1);
 
 	}
-}
+
+	public Vector2 pointOfContact;
+	
+	void OnCollisionEnter2D (Collision2D colliderWeTouched){
+		if (colliderWeTouched.gameObject.tag == "enemy"){ //If the tag of the collider we touched is "enemy", then...
+			
+			pointOfContact = colliderWeTouched.contacts[0].normal; //Grab the normal of the contact point we touched
+			
+			//Detect which side of the collider we touched
+			if (pointOfContact == new Vector2(0,1)){ //touched the top of enemy
+				EnemyScript enemy = colliderWeTouched.gameObject.GetComponent<EnemyScript>();
+				if (enemy != null){
+
+				HealthScript enemyHealth = enemy.GetComponent<HealthScript>();
+				if (enemyHealth != null) enemyHealth.Damage(1);
+				}
+
+			}else{
+					HealthScript playerHealth = this.GetComponent<HealthScript> ();
+					if (playerHealth != null)
+						playerHealth.Damage (1); //damage player
+				}
+			}   
+		}
+	}
