@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{A817F398-A3E1-586B-4C05-1F62B4483374}</ProjectGuid>
+	<ProjectGuid>{26238049-ABD4-C4D5-B625-84150AD6D5EB}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -46,13 +46,18 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\C#\Camera.cs" />
+     <Compile Include="Assets\C#\CameraControl.cs" />
+     <Compile Include="Assets\EnemyScript.cs" />
+     <Compile Include="Assets\HealthScript.cs" />
+     <Compile Include="Assets\RenderExtensions.cs" />
      <Compile Include="Assets\Scripts\BrownBox.cs" />
      <Compile Include="Assets\Scripts\CameraFollow.cs" />
      <Compile Include="Assets\Scripts\Die.cs" />
      <Compile Include="Assets\Scripts\Mbox.cs" />
      <Compile Include="Assets\Scripts\MushroomBox.cs" />
      <Compile Include="Assets\Scripts\animationMario.cs" />
+     <Compile Include="Assets\itemMovement.cs" />
+     <Compile Include="Assets\moveScript.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

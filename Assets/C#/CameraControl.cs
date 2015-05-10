@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Camera : MonoBehaviour {
+public class CameraControl : MonoBehaviour {
 	
 	public float speed = 5.0f;
 	void Update()
